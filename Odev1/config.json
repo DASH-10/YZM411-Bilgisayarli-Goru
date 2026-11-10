@@ -1,0 +1,49 @@
+{
+  "ad_soyad": "Omar Issa",
+  "ogrenci_no": "220212901",
+  "images": {
+    "normal": "data/normal.jpg",
+    "golge": "data/golge.jpg",
+    "lamba": "data/lamba.jpg"
+  },
+  "hizala": true,
+  "obj_roi": [
+    390,
+    1520,
+    140,
+    40
+  ],
+  "paper_roi": [
+    1030,
+    1700,
+    150,
+    80
+  ],
+  "text_roi": [
+    840,
+    1460,
+    240,
+    240
+  ],
+  "points": [
+    [
+      460,
+      1545
+    ],
+    [
+      1100,
+      1740
+    ],
+    [
+      500,
+      1850
+    ]
+  ],
+  "percentile": [
+    2,
+    98
+  ],
+  "rgb_range": null,
+  "hsv_range": null,
+  "otomatik_pozlama_notu": "iPhone 14 Pro; otomatik pozlama ve beyaz dengesi kilitlenmedi. Gölge şemsiyeyle, lamba çekimi zayıf beyaz bir lambayla yapıldı. Telefon son çekimde ~27 px kaydığı için fotoğraflar kodda ötelemeyle hizalandı."
+}

@@ -1,0 +1,42 @@
+deney,kosul,olcut,deger
+4,normal,"P1_R,G,B","50,41,46"
+4,golge,"P1_R,G,B","28,23,29"
+4,lamba,"P1_R,G,B","56,50,64"
+4,normal,"P2_R,G,B","226,194,169"
+4,golge,"P2_R,G,B","194,164,140"
+4,lamba,"P2_R,G,B","190,182,179"
+4,normal,"P3_R,G,B","170,103,51"
+4,golge,"P3_R,G,B","105,61,32"
+4,lamba,"P3_R,G,B","142,97,64"
+5,normal,rgb_alan_orani,0.029091
+5,normal,rgb_roi_ici_kapsama,0.958750
+5,normal,rgb_roi_disi_oran,0.027380
+5,normal,hsv_alan_orani,0.010945
+5,normal,hsv_roi_ici_kapsama,0.951786
+5,normal,hsv_roi_disi_oran,0.009214
+5,golge,rgb_alan_orani,0.037066
+5,golge,rgb_roi_ici_kapsama,0.000000
+5,golge,rgb_roi_disi_oran,0.037134
+5,golge,hsv_alan_orani,0.008202
+5,golge,hsv_roi_ici_kapsama,0.000000
+5,golge,hsv_roi_disi_oran,0.008217
+5,lamba,rgb_alan_orani,0.031062
+5,lamba,rgb_roi_ici_kapsama,0.649464
+5,lamba,rgb_roi_disi_oran,0.029924
+5,lamba,hsv_alan_orani,0.011338
+5,lamba,hsv_roi_ici_kapsama,0.002321
+5,lamba,hsv_roi_disi_oran,0.011354
+6,orijinal,ortalama,108.712
+6,orijinal,255_orani,0.000225
+6,parlaklik_+40,ortalama,148.173
+6,parlaklik_+40,255_orani,0.036841
+6,gama_0.5,ortalama,157.668
+6,gama_0.5,255_orani,0.000225
+6,gama_2.0,ortalama,61.287
+6,gama_2.0,255_orani,0.000225
+7,-,kesit,"[240, 240]"
+7,-,kucuk,"[60, 60]"
+7,-,lapvar,"{""ozgun"": 175.74903869628906, ""nn_buyutulmus"": 266.6002502441406, ""area_buyutulmus"": 117.38493347167969}"
+7,-,lapvar_kucuk,"{""nn"": 1854.1685791015625, ""area"": 743.7542114257812}"
+7,-,mae_ozgune,"{""nn"": 6.5418925285339355, ""area"": 4.517309188842773}"
+7,-,mae_nn_vs_area_kucuk,5.605833530426025
